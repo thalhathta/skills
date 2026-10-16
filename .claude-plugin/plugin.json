@@ -1,0 +1,16 @@
+{
+  "name": "thalha-skills",
+  "version": "0.1.0",
+  "description": "Skills that make AI output faster to understand: constrained STE-style review text, throwaway interactive explainers, and diagram-first system design.",
+  "author": {
+    "name": "Thalhath T A"
+  },
+  "repository": "https://github.com/thalhathta/skills",
+  "license": "MIT",
+  "keywords": ["skills", "ste100", "review", "diagrams", "interactive", "explainers"],
+  "skills": [
+    "./skills/ste-review",
+    "./skills/explain-interactive",
+    "./skills/diagram-first"
+  ]
+}

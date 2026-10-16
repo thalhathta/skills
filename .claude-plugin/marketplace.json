@@ -1,0 +1,16 @@
+{
+  "name": "thalha",
+  "owner": {
+    "name": "Thalhath T A"
+  },
+  "description": "Thalha's skills for reading AI output faster, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "thalha-skills",
+      "source": "./",
+      "description": "Constrained STE-style review text, throwaway interactive explainers, and diagram-first system design.",
+      "category": "productivity",
+      "keywords": ["skills", "ste100", "review", "diagrams", "interactive"]
+    }
+  ]
+}
